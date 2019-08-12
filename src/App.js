@@ -17,14 +17,6 @@ class App extends Component {
   // Shuffle/resort the images
   shuffleImage = () => this.state.cards.sort((a,b) => Math.random()-0.5);
 
-  //set top score
-  setTopScore = () =>{
-    if (this.state.score > this.setState.topScore){
-      this.setState({
-        topScore: this.state.score
-      })
-    }
-  }
   // if user gets to all 12, shuffle the cards and reset the game
   clickedAllImage = () => {
     if(this.state.score === 12){
@@ -37,7 +29,6 @@ class App extends Component {
   endGame = () => {
     this.setState({
     score:0,
-    topScore:0,
     clickedImage:[]
     })
   }
@@ -54,15 +45,17 @@ class App extends Component {
       if (!ifSaved){
        // adds the clicked item to clickedImage to track that it has been clicked
         this.state.clickedImage.push(currentImageId);
+
+
        //reset state
         this.setState({
           clickedImage:this.state.clickedImage,
           // increase the score
-          score: this.state.score +1
+          score: this.state.score +1,
+          topScore: (this.state.score +1 >= this.state.topScore)? this.state.score +1 : this.state.topScore
         });
 
-        //set highest score
-        this.setTopScore();
+
 
         // sort the image function
         this.shuffleImage();
@@ -70,6 +63,7 @@ class App extends Component {
         // if user gets to all 12, shuffle the cards and reset the game
         this.clickedAllImage();
         
+        console.log(this.state.topScore);
         console.log(currentImageId);
         console.log(this.state.clickedImage);
         
