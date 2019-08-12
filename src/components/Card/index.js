@@ -2,9 +2,9 @@ import React from "react";
 import "./style.css";
 
 function Card(props) {
-  return <div className="card" onClick={() => props.clickCount(props.id)}>
+  return <div className="card" onClick={props.clickCount}>
     <div className="img-container">
-      <img alt={props.name} src={props.image} />
+      <img id={props.id} alt={props.name} src={props.image} />
     </div>
   </div>
 }
