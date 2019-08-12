@@ -2,62 +2,62 @@
     {
         "id": 1,
         "name": "Optimus Prime",
-        "image": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/d/d7/WFC-Optimus-Prime_1319780741.jpg/revision/latest/scale-to-width-down/1000?cb=20150301081125",
+        "image": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/d/d7/WFC-Optimus-Prime_1319780741.jpg/revision/latest/scale-to-width-down/1000?cb=20150301081125"
     },
     {
         "id": 2,
         "name":"Bumblebee",
-        "image": "https://s3.amazonaws.com/tf.images/reduced-image_13479_106.jpg",
+        "image": "https://s3.amazonaws.com/tf.images/reduced-image_13479_106.jpg"
     },
     {
         "id": 3,
         "name": "Megatron",
-        "image": "http://ex.tfs-express.com/1481-thickbox_default/transformers-masterpiece-movie-mpm-08-megatron.jpg",
+        "image": "http://ex.tfs-express.com/1481-thickbox_default/transformers-masterpiece-movie-mpm-08-megatron.jpg"
     },
     {
         "id": 4,
         "name": "Ironhide",
-        "image": "https://vignette.wikia.nocookie.net/transformers/images/7/79/Movie_Ironhide.jpg/revision/latest?cb=20110713112659&path-prefix=de",
+        "image": "https://vignette.wikia.nocookie.net/transformers/images/7/79/Movie_Ironhide.jpg/revision/latest?cb=20110713112659&path-prefix=de"
     },
     {
         "id": 5,
         "name": "Starscream",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/81BDQZEXrpL._SL1500_.jpg",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81BDQZEXrpL._SL1500_.jpg"
     },
     {
         "id": 6,
         "name": "Ratchet",
-        "image": "https://tfwiki.net/mediawiki/images2/5/5e/Movie_Ratchet_promorender.jpg",
+        "image": "https://tfwiki.net/mediawiki/images2/5/5e/Movie_Ratchet_promorender.jpg"
     },
     {
         "id": 7,
         "name": "Jazz",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/81q9RAc-poL._SL1500_.jpg",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81q9RAc-poL._SL1500_.jpg"
     },
     {
         "id": 8,
         "name": "Barricade",
-        "image": "https://vignette.wikia.nocookie.net/michaelbaystransformers/images/d/d7/IMG_6803.JPG/revision/latest?cb=20181124074917",
+        "image": "https://vignette.wikia.nocookie.net/michaelbaystransformers/images/d/d7/IMG_6803.JPG/revision/latest?cb=20181124074917"
     },
     {
         "id": 9,
         "name": "Frenzy",
-        "image": "https://vignette.wikia.nocookie.net/robotsupremacy/images/9/9f/FRENZY_film.jpg/revision/latest?cb=20180705202954",
+        "image": "https://vignette.wikia.nocookie.net/robotsupremacy/images/9/9f/FRENZY_film.jpg/revision/latest?cb=20180705202954"
     },
     {
         "id": 10,
         "name": "Bonecrusher",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/71172NQ086L._SL1100_.jpg",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71172NQ086L._SL1100_.jpg"
     },
     {
         "id": 11,
         "name": "Arcee",
-        "image": "https://cdn.shopify.com/s/files/1/0169/6995/7440/products/410202_TRA_SS_DLX_W1_S20_TF2_ARCEE_RENDER_3_2000x.jpg?v=1564755014",
+        "image": "https://cdn.shopify.com/s/files/1/0169/6995/7440/products/410202_TRA_SS_DLX_W1_S20_TF2_ARCEE_RENDER_3_2000x.jpg?v=1564755014"
     },
     {
         "id": 12,
         "name": "Sideswipe",
-        "image": "https://images-na.ssl-images-amazon.com/images/I/512cXlY7OdL.jpg",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/512cXlY7OdL.jpg"
     }
 
 
