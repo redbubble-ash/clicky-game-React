@@ -1,14 +1,27 @@
 .header {
     width: 100%;
-    font-size: 2rem;
-    color: red;
     margin-bottom: 10px;
+    background: #F8F8F8;
+    opacity: 0.5;
   }
   
   .title {
     float: left;
+    color: black;
+    font-size: 30px !important;
+    text-shadow: 2px 2px 5px red;
   }
   
   .scores {
     float: right;
+    color: black;
+    font-size: 30px !important;
+    text-shadow: 2px 2px 5px red;
+
+  }
+
+  h1, h2{
+    text-align: center !important;
+    text-shadow: 2px 2px 5px rgb(117, 206, 236);
+
   }
